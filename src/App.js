@@ -23,6 +23,8 @@ function App() {
         onClick={() => setCount(count + 1)}
       >Click Me!</button>
         <div>{'🐱'.repeat(count)}</div>
+        <p>name: Jessica Shen</p>
+        <p>uniqname: jesishen</p>
       </header>
     </div>
   );
